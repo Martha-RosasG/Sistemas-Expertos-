@@ -1,0 +1,100 @@
+{
+    "razas": [
+        {
+            "nombre": "Golden Retriever",
+            "atributos": {
+                "es_de_tamano_grande": "si",
+                "es_de_tamano_pequeno": "no",
+                "tiene_pelo_largo": "si",
+                "es_un_perro_de_trabajo": "si",
+                "es_ideal_para_apartamentos": "no",
+                "es_hipoalergenico": "no",
+                "es_conocido_por_su_cara_arrugada": "no"
+            }
+        },
+        {
+            "nombre": "Chihuahua",
+            "atributos": {
+                "es_de_tamano_grande": "no",
+                "es_de_tamano_pequeno": "si",
+                "tiene_pelo_largo": "no",
+                "es_un_perro_de_trabajo": "no",
+                "es_ideal_para_apartamentos": "si",
+                "es_hipoalergenico": "no",
+                "es_conocido_por_su_cara_arrugada": "no"
+            }
+        },
+        {
+            "nombre": "Pastor Alemán",
+            "atributos": {
+                "es_de_tamano_grande": "si",
+                "es_de_tamano_pequeno": "no",
+                "tiene_pelo_largo": "no",
+                "es_un_perro_de_trabajo": "si",
+                "es_ideal_para_apartamentos": "no",
+                "es_hipoalergenico": "no",
+                "es_conocido_por_su_cara_arrugada": "no"
+            }
+        },
+        {
+            "nombre": "Poodle (Caniche)",
+            "atributos": {
+                "es_de_tamano_grande": "no",
+                "es_de_tamano_pequeno": "si",
+                "tiene_pelo_largo": "si",
+                "es_un_perro_de_trabajo": "si",
+                "es_ideal_para_apartamentos": "si",
+                "es_hipoalergenico": "si",
+                "es_conocido_por_su_cara_arrugada": "no"
+            }
+        },
+        {
+            "nombre": "Beagle",
+            "atributos": {
+                "es_de_tamano_grande": "no",
+                "es_de_tamano_pequeno": "no",
+                "tiene_pelo_largo": "no",
+                "es_un_perro_de_trabajo": "no",
+                "es_ideal_para_apartamentos": "si",
+                "es_hipoalergenico": "no",
+                "es_conocido_por_su_cara_arrugada": "no"
+            }
+        },
+        {
+            "nombre": "Siberian Husky",
+            "atributos": {
+                "es_de_tamano_grande": "si",
+                "es_de_tamano_pequeno": "no",
+                "tiene_pelo_largo": "si",
+                "es_un_perro_de_trabajo": "si",
+                "es_ideal_para_apartamentos": "no",
+                "es_hipoalergenico": "no",
+                "es_conocido_por_su_cara_arrugada": "no"
+            }
+        },
+        {
+            "nombre": "Pug",
+            "atributos": {
+                "es_de_tamano_grande": "no",
+                "es_de_tamano_pequeno": "si",
+                "tiene_pelo_largo": "no",
+                "es_un_perro_de_trabajo": "no",
+                "es_ideal_para_apartamentos": "si",
+                "es_hipoalergenico": "no",
+                "es_conocido_por_su_cara_arrugada": "si"
+            }
+        },
+        {
+            "nombre": "Bulldog",
+            "atributos": {
+                "es_de_tamano_grande": "no",
+                "es_de_tamano_pequeno": "no",
+                "tiene_pelo_largo": "no",
+                "es_un_perro_de_trabajo": "no",
+                "es_ideal_para_apartamentos": "si",
+                "es_hipoalergenico": "no",
+                "es_conocido_por_su_cara_arrugada": "si"
+            }
+        }
+    ]
+}
